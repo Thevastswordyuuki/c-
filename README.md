@@ -21,3 +21,9 @@ int为被储蓄的数据类型 carrots为变量名 题外话 carrots 为胡萝�
 carrots 为赋值语句
 比如 carrots = 25；
 符号=为赋值运算符 
+  
+  
+  cout 的新花样
+  cout<<carrots；
+  27 语文表达 cout酱carrots替换为当前值25；然后将值转换为合适的输出字符.
+  
